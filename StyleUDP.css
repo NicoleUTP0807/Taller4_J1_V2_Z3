@@ -1,0 +1,9 @@
+html {
+    background-image: -webkit-linear-gradient(bottom right, #191257, #211775, #2a1aba);
+}
+
+h1 {
+    font-family: 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+}
